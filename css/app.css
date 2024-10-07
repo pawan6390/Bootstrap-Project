@@ -9,7 +9,7 @@
   font-weight: 600;
 }
 .nav-link {
-  color: black;
+  color: rgb(18, 10, 10);
   transition: color 0.5s;
 }
 .nav-link:hover {
